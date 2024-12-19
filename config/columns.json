@@ -1,0 +1,1 @@
+{"time": "object", "latitude": "float64", "longitude": "float64", "clay_content": "float64", "sand_content": "float64", "silt_content": "float64", "sm_aux": "float64", "sm_tgt": "float64"}
